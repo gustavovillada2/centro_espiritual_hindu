@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6{
 
 
 .main-header__contactInfo__phone {
-    background: #633232;
+    background: rgba(14,128,14,0.7);
     color: white;
     margin: 0 auto;
     padding: 10px;
